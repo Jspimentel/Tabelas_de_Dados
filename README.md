@@ -24,5 +24,13 @@ Neste repositório estão algumas tabelas de dados por mim encontradas ou criada
 - Cup_Russia_2018_Teams
 - World_Cups
 
+### Outros conjuntos de dados
+
+- Anuncios
+- Base_Multivariada
+- Spotify
+- Titanic
+
 ### Outras Fontes de dados
 
+- Fontes_de_Dados.pdf
